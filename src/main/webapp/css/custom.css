@@ -1,0 +1,73 @@
+body {
+	margin: 0;
+	padding-top: 70px;
+}
+
+.lrpadding {
+	padding-left: 70px;
+	padding-right: 70px;
+}
+
+/* ROW 2 START  */
+.row2lia {
+	color: #000000;
+}
+/* ROW 2 END  */
+
+/* ROW 3 START  */
+.row3 {
+	background-image: url("../images/texture-bw.png");
+}
+
+.row3ol {
+	background-color: inherit;
+	margin: 10px;
+}
+/* ROW 3 END  */
+
+/* ROW 3 START  */
+.row3h3 {
+	margin-top: 15px;
+}
+/* ROW 3 END  */
+
+/* ROW 4 START  */
+.row4container {
+	background-color: #C1BCBB;
+}
+/* ROW 4 END  */
+
+/* ROW 5 START  */
+.row5 {
+	background-color: #5D5C5C;
+	color: white;
+	padding-bottom: 10px;
+}
+
+.row5img {
+	height: 50px;
+	width: 50px;
+}
+
+.row5img2 {
+	float: left;
+	margin-right: 5px;
+}
+
+.row5p {
+	padding-top: 30px;
+}
+
+.row5p2 {
+	padding-top: 10px;
+}
+/* ROW 5 END  */
+
+/* ROW 10 START  */
+.row10 {
+	background-color: #000000;
+	color: white;
+	height: 100px;
+	padding-top: 35px;
+}
+/* ROW 10 END  */
