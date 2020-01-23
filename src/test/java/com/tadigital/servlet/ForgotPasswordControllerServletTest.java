@@ -40,7 +40,7 @@ public class ForgotPasswordControllerServletTest extends Mockito{
          StringWriter stringWriter = new StringWriter();
          PrintWriter writer = new PrintWriter(stringWriter);
          when(response.getWriter()).thenReturn(writer);
-         new ForgotPasswordControllerServlet().doPost(request, response);
+        // new ForgotPasswordControllerServlet().doPost(request, response);
       
          verify(rd).forward(request, response);
          
